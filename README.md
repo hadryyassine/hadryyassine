@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **DevOps** , **Cloud** and **Back-end Development**
 - 📫 How to reach me **hadryyassine@gmail.com**
   
-[![Linkedin Badge](https://img.shields.io/badge/-Yassine Hadry-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassine-hadry-bab70214a/)](https://www.linkedin.com/in/yassine-hadry-bab70214a/)
+
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hadryyassine@gmail.com)](mailto:hadryyassine@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000080?style=for-the-badge&logo=About.me&logoColor=white&link=https://hadryyassine.vercel.app/)](https://hadryyassine.vercel.app/)
 
