@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yassine Hadry </h1>
 
-<h3 align="center">A Driven software engineer student & DevOps enthusiast ! My motto is Innovate, Code, Deliver !</h3>
+<h3 align="center">A Driven software engineer & DevOps enthusiast ! My motto is Innovate, Code, Deliver !</h3>
 <br>
 
 - 🔭 I’m currently a DevOps R&D summer intern at Oracle.
